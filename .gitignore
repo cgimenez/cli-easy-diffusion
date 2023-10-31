@@ -1,0 +1,6 @@
+/settings/*
+!/settings/sample*.json
+/prompts/*
+!/prompts/sample*.json
+/images
+cli.js

@@ -1,0 +1,8 @@
+[
+  {
+    "how_many": 2,
+    "positive": "a sample positive prompt",
+    "negative": "something negative",
+    "out_dir": "sample"
+  }
+]
